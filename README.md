@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elif</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Next JS**
 
 - 📫 How to reach me **elifmarali00@gmail.com**
 
